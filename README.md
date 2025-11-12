@@ -5,11 +5,11 @@ MySQL.
 
 ## 👨‍💻 Información del Proyecto
 
-- **Estudiante:** [Tu Nombre Completo]
-- **Curso:** ISF131 / ISF132
+- **Estudiante:** Diego Jaén, Edwin Zhong
+- **Curso:** ISF132
 - **Profesor:** Ing. Irina Fong
 - **Universidad:** Universidad Tecnológica de Panamá
-- **Fecha:** Noviembre 2024
+- **Fecha:** Noviembre 2025
 
 ## 📋 Descripción
 
@@ -183,12 +183,6 @@ Este es un proyecto académico. Si deseas contribuir o reportar problemas:
 ## 📄 Licencia
 
 Este proyecto es de uso académico y educativo.
-
-## 📧 Contacto
-
-**[Tu Nombre]**
-- Email: tu-email@ejemplo.com
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
 
 ---
 
